@@ -1,3 +1,9 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdtZGV4NWczcjE1dzB6Z3p0NGM2bm5jZTNhaWdjdm54Z2lmdGp1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yTFemEJxmeW2YLOT6p/giphy.gif" width="100"/>
+</div>
+
+---
+
 ## About me:
   * :seedling: Analytical Consultant
   * :rocket: PhD in Mathematics
